@@ -63,3 +63,6 @@ This would return:
 
 ## Contributing
 Feel free to open issues or submit pull requests if you have suggestions for improvements or find any bugs.
+
+## Author
+Abrefah, M J
